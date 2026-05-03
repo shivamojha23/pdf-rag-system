@@ -1,0 +1,12 @@
+.env
+chroma_db/
+chroma_db_groq/
+.idea/
+__pycache__/
+*.pyc
+*.bin
+*.sqlite3
+New Text Document.txt
+test.py
+hello_ai.py
+rag_demo.py
